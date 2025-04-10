@@ -1,11 +1,10 @@
 @import "tailwindcss";
+@tailwind utilities;
 
 @layer base {
   html,
   body {
     min-height: 100%;
-    /* font-size: 12px; */
-    /* font-family: "Pretendard", sans-serif; */
   }
 
   svg {
